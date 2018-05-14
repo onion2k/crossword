@@ -1,5 +1,15 @@
 {
     "crossword": {
-        "size": { "x": 12, "y": 12 }
+        "size": { "x": 12, "y": 12 },
+        "clues": {
+            "across": [
+                { "clue": "Test clue.", "answer": "stoat", "index": 1 },
+                { "clue": "Test clue 2", "answer": "goat", "index": 7 }
+            ],
+            "down": [
+                { "clue": "Test clue.", "answer": "stoat", "index": 1 },
+                { "clue": "Test clue 2", "answer": "goat", "index": 22 }
+            ]
+        }
     }
 }
