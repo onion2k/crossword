@@ -4,7 +4,8 @@
         "clues": {
             "across": [
                 { "clue": "Test clue.", "answer": "stoat", "index": 1 },
-                { "clue": "Test clue 2", "answer": "goat", "index": 7 }
+                { "clue": "Test clue 2", "answer": "goat", "index": 7 },
+                { "clue": "Two word test clue.", "answer": "angry badger", "index": 40 }
             ],
             "down": [
                 { "clue": "Test clue.", "answer": "stoat", "index": 1 },
