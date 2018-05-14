@@ -1,0 +1,12 @@
+{
+  "state": {
+    "board": [],
+    "answers": [],
+    "current": {
+      "clue": null,
+      "cursor": null,
+      "dir": null,
+      "length": null
+    }
+  }
+}
